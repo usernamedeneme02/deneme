@@ -31,8 +31,7 @@ fi
 
 
 # MONİKER AD BELİRLEME
-NODENAME=kkmnkr
-
+read -p "Moniker Adinizi Giriniz : " NODENAME
 
 # REPO YÜKLE
 
